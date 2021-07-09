@@ -5,4 +5,4 @@ Simply put a Recommendation System is a filtration program whose prime goal is t
 Dataset : 
 https://www.kaggle.com/rounakbanik/the-movies-dataset
 
-Nootebook on Kaggle : https://www.kaggle.com/basel99/movie-recommendation-engine-collaborative-filter
+Notebook on Kaggle : https://www.kaggle.com/basel99/movie-recommendation-engine-collaborative-filter
